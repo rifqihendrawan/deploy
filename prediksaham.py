@@ -7,7 +7,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import LinearRegression
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from tensorflow.keras.models import Sequential
